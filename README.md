@@ -151,3 +151,9 @@ Lots of content and tutorials from all around the world. There are developes wri
 https://stackoverflow.com/
 
 Ever stuck on a particular problem, or not sure what how to fix a particular line of code. Stackoverflow has thousands of tips, troubleshooting, and more. Check it out next time you're stumped on your code.
+
+
+
+Author:
+| [<img src="https://github.com/mishmanners.png?size=115" width=115><br><sub>@mishmanners</sub>](https://github.com/mishmanners) |
+| :---: |
